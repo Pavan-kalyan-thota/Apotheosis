@@ -17,6 +17,8 @@ voice-to-text conversion.
 voice.
 4. It records meeting MOM in detail in its own database.
 5. The project manager can also instruct APO to do multiple activities during the meeting.
- To implement this we use client-server model, voice-text-voice converter,
+ 
+
+      To implement this we use client-server model, voice-text-voice converter,
 Jira/Confluence/bitbucket/Stack overflow APIs to analyze data to get accurate information, 
 ML(Machine Learning) for learning and updating itself.
